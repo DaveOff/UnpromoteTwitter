@@ -7,7 +7,7 @@
     "scripts": ["background.js"]
   },
   "permissions": [
-    "webRequest",
+	"webRequest",
 	"webRequestBlocking",
 	"*://twitter.com/*"
   ]
